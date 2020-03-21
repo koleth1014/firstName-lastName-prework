@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    line-height: 1.5;
+    text-transform: none;
+}
+
+.Nav {
+    background-color: gray;
+    text-align: center;
+    font-size: 30px;
+}
+
+.Left {
+    background-color: blue;
+    border: 3px solid blue;
+    height: 700px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 426px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.Right {
+    background-color: red;
+    border: 3px solid red;
+    height: 700px;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+    padding:  50px;
+    margin-top: 50px;
+    margin-bottom: 426px;
+    box-sizing: border-box;
+    float: right;
+}
+
+.Footer {
+    background-color: green;
+    text-align: center;
+    clear: both;
+    font-size: 30px;
+    
+}

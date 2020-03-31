@@ -1,0 +1,3 @@
+I have commented on my code the important bits and what they do.
+
+ Once the program is activated in broswer, simply do what it says. "Press any key to start". Thus, starting the game. Type a letter to see if it is in the chosen word. If it is not, it will go in the wrong guesses. If it is, it will place that letter anywhere in the word that has that letter. The theme is "months of the year". So the word is one of the 12 months of the year.  After guessing the word (or losing by running out of guesses), a prompt will pop up (and it will tell you if you won or lost,). Press "ok" after the prompt and the game will restart with a new, randomly chosen month of the year. 
